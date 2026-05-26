@@ -1,0 +1,5 @@
+def greet_user(Fateha):
+    return f"Welcome, {Fateha}!"
+
+result = greet_user("Fateha")
+print(result)
