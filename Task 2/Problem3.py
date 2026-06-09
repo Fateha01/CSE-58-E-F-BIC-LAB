@@ -3,5 +3,5 @@ def rev_complt(pattern):
     result= ""
     for char in pattern:
         result =mapping[char] + result
-        return result
+    return result
         print(rev_complt("AAAACCCGGT"))
